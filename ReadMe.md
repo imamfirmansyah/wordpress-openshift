@@ -1,1 +1,1 @@
-"# wordpress-openshift" 
+Repository WordPress Openshift
